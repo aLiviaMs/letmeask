@@ -1,5 +1,7 @@
 <h1> Letmeask </h1>
 
+<img src="scr/assets/images/cover.svg" alt="Letmeask" width="500" height="600">
+
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
