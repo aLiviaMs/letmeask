@@ -1,6 +1,6 @@
 <h1> Letmeask </h1>
 
-<img src="scr/assets/images/cover.svg" alt="Letmeask" width="500" height="600">
+<img src="https://i.ibb.co/bJcWQkg/cover.jpg" alt="Letmeask" width="500" height="600">
 
 ## 🧪 Tecnologias
 
